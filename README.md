@@ -20,7 +20,6 @@ https://github.com/UDAIBHAT/Login_form.git
 ```
 - Go to the directory
 - Run the index.html file
-- Start using the Calculator
 
 
 <h3> ScreenShots </h3>  
